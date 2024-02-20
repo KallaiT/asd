@@ -57,7 +57,7 @@ nav a:hover {
 }
 
 body:has(#menu:checked) {
-  --menu-display: flex;
+  --menu-display: flex bottom;
 }
 #menu {
   position: bottom;
